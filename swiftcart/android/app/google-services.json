@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162983444969",
+    "project_id": "epass-auth",
+    "storage_bucket": "epass-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162983444969:android:ce11c5c0d24dced4848b78",
+        "android_client_info": {
+          "package_name": "com.example.swiftcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZWcOSxDMYiR-wbd1ZFvJnOh41qaYGHDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
